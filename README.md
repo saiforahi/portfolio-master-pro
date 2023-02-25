@@ -187,9 +187,9 @@ This method is responsible for running the test program. This function takes pro
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+> All of the collaborators of this project.
 
-👤 **Dev**
+👤 **Shaif Azad**
 
 - GitHub: [@githubhandle](https://github.com/saiforahi)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/shaif-azad-rahi/)
